@@ -61,7 +61,8 @@ Retail banks allocate marketing and commercial resources without always knowing 
 ### Page 5 — Sales Forecast (6 months)
 *Time series forecast using Power BI's built-in analytics — monthly transaction volume from 2020 to mid-2026 with confidence interval.*
 
-> 📁 `screenshots/05_forecast.png`
+> <img width="1324" height="726" alt="image" src="https://github.com/user-attachments/assets/17868e93-2a9b-4884-a985-21d822fa717f" />
+
 
 ---
 
