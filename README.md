@@ -160,7 +160,7 @@ neobank-clv-analytics/
 ## How to Open
 
 1. Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-2. Clone this repo: `git clone https://github.com/YOUR_USERNAME/neobank-clv-analytics`
+2. Clone this repo: `git clone https://github.com/fallouinfo03/neobank-clv-analytics`
 3. Open `report/neobank_clv_dashboard.pbix`
 4. Explore the 6 pages using segment slicers
 
