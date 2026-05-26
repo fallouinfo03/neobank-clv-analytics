@@ -69,7 +69,8 @@ Retail banks allocate marketing and commercial resources without always knowing 
 ### Page 6 — Under-Exploited Clients (Opportunities)
 *Clients with high CLV potential but low product penetration — ranked by opportunity score with recommended next product.*
 
-> 📁 `screenshots/06_opportunities.png`
+> <img width="1380" height="850" alt="image" src="https://github.com/user-attachments/assets/205b9f9c-6be0-419c-a496-f3972ffe16d0" />
+
 
 ---
 
