@@ -43,7 +43,8 @@ Retail banks allocate marketing and commercial resources without always knowing 
 ### Page 3 — CLV Per Client
 *Detailed client-level table: basket size, purchase frequency, estimated lifetime, and CLV score — filterable by segment.*
 
-> 📁 `screenshots/03_clv_per_client.png`
+> <img width="1291" height="743" alt="image" src="https://github.com/user-attachments/assets/d685a502-3311-4200-9921-76a6942eae76" />
+
 
 **Global KPIs:** Panier Moyen: 2,510 · Fréquence Annuelle: 8.23 · CLV Globale: 120,694
 
