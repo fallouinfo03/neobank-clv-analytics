@@ -53,7 +53,8 @@ Retail banks allocate marketing and commercial resources without always knowing 
 ### Page 4 — Basket Analysis (Product Correlation Matrix)
 *Heatmap showing how often pairs of products appear in the same transaction — enabling targeted cross-sell recommendations.*
 
-> 📁 `screenshots/04_basket_analysis.png`
+> <img width="1359" height="775" alt="image" src="https://github.com/user-attachments/assets/bd285daa-228c-49d1-8046-92bac068aa41" />
+
 
 ---
 
