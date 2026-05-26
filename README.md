@@ -171,7 +171,7 @@ neobank-clv-analytics/
 
 ## Context
 
-This project was developed as part of a **Data Visualization course** (Business Intelligence program, Winter 2026). The dataset is **fully synthetic** — no real customer data was used. It has since been refactored as a personal portfolio project.
+The dataset is **fully synthetic** — no real customer data was used. It has since been refactored as a personal portfolio project.
 
 ---
 
