@@ -89,7 +89,8 @@ FactTransaction (central fact table)
     └── Produits_Comparaison — Pre-computed product co-purchase matrix
 ```
 
->  `screenshots/data_model.png`
+>  <img width="1448" height="840" alt="image" src="https://github.com/user-attachments/assets/9c4537f1-59f8-401f-a505-d7d4dabc128f" />
+
 
 ---
 
