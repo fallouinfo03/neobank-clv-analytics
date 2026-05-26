@@ -32,7 +32,8 @@ Retail banks allocate marketing and commercial resources without always knowing 
 ### Page 2 — 20/80 Rule (Pareto Analysis)
 *Which product sub-categories drive 80% of revenue? Visual Pareto curve with cumulative CA breakdown.*
 
-> <img width="1372" height="731" alt="image" src="https://github.com/user-attachments/assets/722e3739-55f8-4643-a632-4c2ee6b5fd33" />
+> <img width="1349" height="749" alt="image" src="https://github.com/user-attachments/assets/2ee1c4bf-4b43-4a69-9236-f091f1235c45" />
+
 
 
 **Insight:** Top 4 sub-categories (BC, BB, BA, CA) account for ~46% of total revenue (23.9M).
