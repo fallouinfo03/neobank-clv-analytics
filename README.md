@@ -22,7 +22,8 @@ Retail banks allocate marketing and commercial resources without always knowing 
 ### Page 1 — RFM Segmentation
 *Customers scored on Recency, Frequency, and Monetary dimensions and grouped into actionable segments (Champions, Standard, At-Risk, New Clients, Lost).*
 
-> neobank-clv-analytics/screenshots/01_rfm_segmentation.png 
+> <img width="1372" height="731" alt="image" src="https://github.com/user-attachments/assets/70a0dfdd-696c-4a72-b5c9-eb653394e59b" />
+
 
 **Key metrics:** Average basket size · Annual purchase frequency · Average CLV
 
